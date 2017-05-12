@@ -1,3 +1,29 @@
 theme: jekyll-theme-architect
 title: Ashutosh Sharma
 description: Software Engineer / Principal Consultant
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Some Person
+  email: "email2ashusharma@gmail.com"
+  facebook: ashusharma1988  
+  github: ashutoshsharma31   
+  instagram: ashusharma31 
+  telephone: +918805862535   # eg. +14159998888
+
+# Select which links to show in the footer
+footer-links-active:
+  facebook: true
+  email: true
+  github: true
+  instagram: false
+  telephone: false
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
