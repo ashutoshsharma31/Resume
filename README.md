@@ -65,4 +65,4 @@
     - Effective From: 27th Nov 2015
 
 
-[Download Resume](https://guides.github.com/features/mastering-markdown/)
+[Download Resume](https://ashutoshsharma31.github.io/Ashutosh%20Sharma(Technical).doc)
